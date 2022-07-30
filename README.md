@@ -44,7 +44,7 @@ According to the GSAF (Global Shark Attack Fiel) USA has 12 field investigators,
 The country with most fatal cases is Brazil. However, it is important to emphasize that Brazil has only one field investigator and has only 103 registered cases.
 As seen in graph 1, from 1751 to 1872 the total registers corresponded of total fatal cases. The difference of total registers of fatal and no fatal/unknown increases throughout time. It make sense, becouse the more grave the case is, the more people needs help of other people for the treatment. There is not known why this difference increases throughout time, but one of the possibilities is  that the more research is fomented, the more registers of no fatal cases increases.
 
-##### Graph 1 - Registered cases throughout time
+##### Graph 1 - Registered cases from 1751 to 1872
 ![image](https://user-images.githubusercontent.com/101889306/181917335-cee0daa2-2915-480e-8eb5-0271b5d6a7c6.png)
 
 So, disregarding Brazil, the countries with the highest relative percentage of fatal cases are Australia and South Africa.
