@@ -60,6 +60,10 @@ I cleanned theses species names from the dataset and recover the following subse
 
 As seen in table 2, the most deadly shark is the bull shark, followed by white shark and tiger shark, respectively.
 
+## Next steps
+- Assess local bases of sharks researchers from Brazil, to gather more cases and increase confiability of data analysis;
+- Assess shark species' distribution throughout the world.
+
 ## Bibliography
 Center of Surf Research. Most dangerous and aggressive sharks. 2022. 
 Available in: https://centerforsurfresearch.org/most-dangerous-aggressive-sharks/
